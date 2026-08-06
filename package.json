@@ -26,8 +26,8 @@
     "audit:security": "npm audit --omit=dev"
   },
   "dependencies": {
-    "dompurify": "^3.2.4",
-    "pdfjs-dist": "^4.10.38"
+    "dompurify": "^3.4.13",
+    "pdfjs-dist": "^6.2.108"
   },
   "devDependencies": {
     "@eslint/js": "^9.20.0",
