@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "dompurify": "^3.4.14",
-    "pdfjs-dist": "^4.10.38"
+    "pdfjs-dist": "^6.2.108"
   },
   "devDependencies": {
     "@eslint/js": "^9.20.0",
