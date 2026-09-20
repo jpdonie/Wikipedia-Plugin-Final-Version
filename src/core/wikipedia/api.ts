@@ -11,7 +11,7 @@ import { ApiErrorKind, ArticleSummary, SearchResult, WikipediaApiError } from '.
  * Api-User-Agent-Header. Keine privaten E-Mail-Adressen im Quellcode.
  */
 export const API_USER_AGENT =
-  'WikipediaQuickSearch-Extension/1.0 (https://github.com/ThatNerd1/FDT-Wikipedia-Plugin)';
+  'WikipediaQuickSearch-Extension/1.0 (https://github.com/jpdonie/FDT-Wikipedia-Plugin)';
 
 const TIMEOUT_MS = 10_000;
 const MAX_RETRIES = 2;
